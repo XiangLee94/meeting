@@ -18,6 +18,9 @@
     <modules>
         <module>jvm</module>
         <module>jvm/classloader</module>
+        <module>jvm-source-code</module>
+        <module>concurrency</module>
+        <module>algorithm</module>
     </modules>
 
 
