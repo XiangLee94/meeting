@@ -21,6 +21,9 @@
         <module>jvm-source-code</module>
         <module>concurrency</module>
         <module>algorithm</module>
+        <module>datastructure</module>
+        <module>data-structure</module>
+        <module>tree</module>
     </modules>
 
 
