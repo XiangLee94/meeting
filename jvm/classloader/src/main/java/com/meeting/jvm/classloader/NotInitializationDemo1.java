@@ -20,6 +20,8 @@ class SuperClass {
     }
 
     public static int value = 123;
+//    public static final int value = 123; //加上final将不会触发该父类初始化
+
 }
 
 class SubClass extends SuperClass {

@@ -377,6 +377,7 @@ public class RedBlackBST<Key extends Comparable<Key>, Value> {
 
     // Assuming that h is red and both h.left and h.left.left
     // are black, make h.left or one of its children red.
+    //加入 h 是红节点，h的左子节点和，左子节点的左子节点都是黑节点， 让 h的左子节点变红或者左子节点的子节点变红
     private Node moveRedLeft(Node h) {
         // assert (h != null);
         // assert isRed(h) && !isRed(h.left) && !isRed(h.left.left);
