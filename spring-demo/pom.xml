@@ -12,7 +12,7 @@
     <artifactId>spring-demo</artifactId>
 
     <properties>
-        <spring.version>5.2.5.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <fastjson.version>1.2.68</fastjson.version>
     </properties>
 
